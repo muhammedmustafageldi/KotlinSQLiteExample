@@ -9,7 +9,6 @@
 <p align="left">
 <img src="https://swanky.website/PicturesAndGifs/Ss1.png" width="230" height="380"/>
 <img src="https://swanky.website/PicturesAndGifs/Ss2.png" width="230" height="380"/> 
-<img src="https://swanky.website/PicturesAndGifs/Ss3.png" width="230" height="380"/> 
 <img src="https://swanky.website/PicturesAndGifs/Ss4.png" width="230" height="380"/> 
   
 </p>
@@ -29,7 +28,7 @@
 # *Here's a little demo:*
   <p align="left">
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250" height="400" />
-<img src="https://github.com/muhammedmustafageldi/KotlinRecyclerviewExample/blob/main/PhotosAndGifs/untitled.gif" width="250" height="400" />
+<img src="https://github.com/muhammedmustafageldi/KotlinSQLiteExample/blob/main/AppGif/untitled.gif" width="250" height="400" />
   </p>
   
   > # *Thank you for viewing my project.Don't forget to star if you liked it.* 🙃
