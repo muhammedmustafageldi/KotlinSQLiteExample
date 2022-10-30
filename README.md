@@ -9,7 +9,6 @@
 <p align="left">
 <img src="https://swanky.website/PicturesAndGifs/Ss1.png" width="230" height="380"/>
 <img src="https://swanky.website/PicturesAndGifs/Ss2.png" width="230" height="380"/> 
-<img src="https://swanky.website/PicturesAndGifs/Ss3.png" width="230" height="380"/> 
 <img src="https://swanky.website/PicturesAndGifs/Ss4.png" width="230" height="380"/> 
   
 </p>
