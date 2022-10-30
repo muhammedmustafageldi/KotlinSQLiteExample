@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesLibrary</string>
+    <string name="selectImage">Tap the icon to select the photo of the movie</string>
+</resources>
